@@ -109,4 +109,13 @@ This Excel-based analysis project provides comprehensive insights into customer 
 - Create additional drill-down capabilities
 - Set up automated reporting using Power Automate
 
-##
+## Project Status
+Completed as Project #2 at Future Intern
+
+## Author
+FRIDA KATANA KITSAO 
+Future Intern  
+https://www.linkedin.com/in/frida-katana-kitsao-701433231/
+
+## Acknowledgments
+Special thanks to the Future Intern program for providing the opportunity to work on this meaningful project focused on improving customer support through data analysis.
